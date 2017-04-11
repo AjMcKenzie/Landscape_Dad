@@ -1,21 +1,20 @@
-.smaller
-{
-  font-size: 20px;
+.smaller {
+    font-size: 20px;
 }
-.background
-{
-  background-color: rgb(63, 132, 53); // Drakish green
+
+.background {
+    background-color: rgb(63, 132, 53); // Drakish green
 }
-.logo
-{
-  width: 600px;
-  height: 300px;
+
+.logo {
+    width: 600px;
+    height: 300px;
 }
-.push
-{
-  margin-left: 610px;
+
+.push {
+    margin-left: 610px;
 }
-.push2
-{
+
+.push2{
   margin-top: -200px;
 }
